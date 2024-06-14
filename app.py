@@ -1,5 +1,5 @@
 from shared import app
-import medicamentRoutes
+import medicationRoutes
 import medicationRepository
 
 if __name__ == "__main__":
